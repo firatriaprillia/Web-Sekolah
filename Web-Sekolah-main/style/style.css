@@ -1,0 +1,7 @@
+.banner{
+    height: 400px;
+    background: url(../assets/images/lap.png);
+    background-size: cover;
+    text-align: center;
+    padding: 150px 0px;
+    }
