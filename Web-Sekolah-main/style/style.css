@@ -5,3 +5,9 @@
     text-align: center;
     padding: 150px 0px;
     }
+
+.card-hover{
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+}
+
